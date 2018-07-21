@@ -7,15 +7,15 @@ tags:
 - Jsf
 - YasamDongusu
 - LifeCycle
-image: \assets\images\jsf\jsf1.png
+image: \nea\assets\images\jsf\jsf1.png
 
 ---
 
 JSF'in yaşam döngüsünü anlamak, bir sorunla karşılaştığınız hatanın neyden kaynaklandığını bilmek ve bu işin mantığını öğrenmektir. Hem de JSF frameworkunun derdinin ne olduğu anlaşılır.
 
-![](\assets\images\jsf\jsf1.png)
+![](\nea\assets\images\jsf\jsf1.png)
 
-<img class="centered" src="\assets\images\jsf\jsf1.png" />
+<img class="centered" src="\nea\assets\images\jsf\jsf1.png" />
 
 ### 1-Restore View
 
