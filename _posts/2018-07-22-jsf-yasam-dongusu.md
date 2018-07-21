@@ -15,8 +15,6 @@ JSF'in yaşam döngüsünü anlamak, bir sorunla karşılaştığınız hatanın
 
 ![](\nea\assets\images\jsf\jsf1.png)
 
-<img class="centered" src="\nea\assets\images\jsf\jsf1.png" />
-
 ### 1-Restore View
 
 - İstemci tarafındaki kullanıcı ara yüzündeki bileşen ağacı (component tree)* oluşur. Sayfa ilk defa görüntüleniyor ise yeni bir bileşen ağacı oluşur. Eğer önceden oluşturulmuşsa bileşen ağacı güncellenir.
