@@ -1,6 +1,6 @@
 ---
 title: JSF'in Yaşam Döngüsü
-date: 2018-07-22 00:25:00
+date: 2018-05-01 17:41:00
 categories:
 - Foo
 tags:
