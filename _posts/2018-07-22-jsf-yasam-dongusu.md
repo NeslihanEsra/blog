@@ -2,9 +2,9 @@
 title: JSF'in Yaşam Döngüsü
 date: 2018-05-01 17:41:00
 categories:
-- Foo
+- JSF
 tags:
-- Jsf
+- JSF
 - YasamDongusu
 - LifeCycle
 image: \nea\assets\images\jsf\jsf1.png
