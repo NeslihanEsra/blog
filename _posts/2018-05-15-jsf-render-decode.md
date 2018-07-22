@@ -1,6 +1,7 @@
 ---
 title: JSF Sayfasının Oluşması & İsteğin Cevaplanması
 date: 2018-05-15 19:11:00
+description: Rendering Pages & Decoding Request
 categories:
 - JSF
 tags:
