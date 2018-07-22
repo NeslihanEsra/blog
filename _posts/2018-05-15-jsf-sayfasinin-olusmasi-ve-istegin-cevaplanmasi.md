@@ -16,13 +16,17 @@ image: \nea\assets\images\jsf\jsf3.png
 - Sayfada yer alan JSF elementi, karşılığı olan html elementine dönüştürülerek bileşen ağacı oluşturulur.  Bu işlem 'encoding' olarak adlandırılır.
 - Encoded page tarayıcıya gönderilir. Tarayıcı üzerinde JSF sayfası incelendiğinde html elementleri görülür.
 
+{% highlight r %}
 
 Örneğin,
 
 JSF elementi = h:inputText
 Dönüştürülen HTML elementi = input name="id" type="text" value="değer"
 
-![JSF sayfasının oluşması & İsteğin cevaplanması](\nea\assets\images\jsf\jsf3.png)
+{% endhighlight %}
+
+![](\nea\assets\images\jsf\jsf3.png)
+*JSF sayfasının oluşması & İsteğin cevaplanması*
 
 ### İsteğin Cevaplanması (Decoding Request)
 
