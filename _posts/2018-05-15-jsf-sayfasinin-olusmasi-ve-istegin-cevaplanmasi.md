@@ -1,6 +1,6 @@
 ---
 title: JSF Sayfasının Oluşması & İsteğin Cevaplanması
-date: 2018-05-01 19:11:00
+date: 2018-05-15 19:11:00
 categories:
 - JSF
 tags:
