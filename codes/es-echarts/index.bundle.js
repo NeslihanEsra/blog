@@ -1,0 +1,1 @@
+console.error("Error: SyntaxError: Unexpected token } in JSON at position 214 while parsing json file C:\\Users\\nea\\Desktop\\NEA\\Blog\\es-echarts\\package.json");

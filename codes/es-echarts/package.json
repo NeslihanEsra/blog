@@ -1,0 +1,19 @@
+{
+  "name": "es-echarts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "npx index.js -o index.bundle.js",
+    "watch": "npx watchify index.js -o index.bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "echarts": "^4.2.0-rc.1",
+    "elasticsearch": "^15.1.1",
+    "watchify": "^3.11.0"
+  }
+}
